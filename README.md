@@ -20,7 +20,12 @@
    sudo install -m 755 /path/to/backhaul /usr/local/bin/backhaul
    ```
 
-2. اجرای اسکریپت با دسترسی روت:
+2. اجرای سریع با یک خط دستور (دانلود و اجرای منو):
+   ```bash
+   sudo bash <(curl -Ls https://raw.githubusercontent.com/iliya-Developer/Backhaul-script/main/install.sh)
+   ```
+
+3. اجرای اسکریپت به‌صورت دستی با دسترسی روت:
    ```bash
    sudo ./backhaul-menu.sh
    ```
