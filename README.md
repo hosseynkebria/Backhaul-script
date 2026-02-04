@@ -22,7 +22,7 @@
 
 2. اجرای سریع با یک خط دستور (دانلود و اجرای مستقیم منو):
    ```bash
-   sudo bash <(curl -Ls https://raw.githubusercontent.com/iliya-Developer/Backhaul-script/main/backhaul-menu.sh)
+   sudo bash <(curl -Ls https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/Backhaul-script/main/backhaul-menu.sh)
    ```
 
 3. اجرای اسکریپت به‌صورت دستی با دسترسی روت (بعد از دانلود):
